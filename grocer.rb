@@ -79,4 +79,7 @@ def checkout(cart, coupons)
   
   while i < cart.length
   total += clear_cart[i][:price]
+  i += 1 
+end 
+total
 end
