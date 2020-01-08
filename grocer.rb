@@ -77,5 +77,6 @@ def checkout(cart, coupons)
   total = 0 
   i = 0 
   
-  while i < cart.length 
+  while i < cart.length
+  t
 end
